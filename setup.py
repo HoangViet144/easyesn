@@ -16,7 +16,7 @@ LICENSE = "MIT"
 VERSION = None
 
 # What packages are required for this module to be executed?
-REQUIRED = ["numpy", "progressbar2", "dill", "multiprocess", "scikit-learn"]
+REQUIRED = ["numpy", "progressbar2", "dill", "multiprocess", "sklearn"]
 
 # The rest you shouldn't have to touch too much :)
 # ------------------------------------------------
